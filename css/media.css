@@ -1,0 +1,21 @@
+@media screen and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 992px) {
+}
+
+@media screen and (max-width: 768px) {
+  /* ----------------<home>----------------- */
+  #home main h1 {
+    font-size: 2.5rem;
+  }
+  /* ----------------</home>----------------- */
+}
+
+@media screen and (max-width: 576px) {
+  /* ----------------<home>----------------- */
+  #home main h1 {
+    font-size: 2rem;
+  }
+  /* ----------------</home>----------------- */
+}
